@@ -1,4 +1,5 @@
-Password-Generator
+Password-Generator<img width="997" alt="Screen Shot 2021-07-30 at 5 11 48 PM" src="https://user-images.githubusercontent.com/87452473/127785390-8c9e08c2-8d31-4cb3-a500-c0395ac4f78c.png">
+
 
 The agenda of this assignment was to
 1)Present a series of prompts for password criteria
